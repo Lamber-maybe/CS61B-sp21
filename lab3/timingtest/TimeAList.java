@@ -28,7 +28,7 @@ public class TimeAList {
         AList<Integer> opCounts = new AList<>();
 
         int testAListLength = 1000;
-        for (int i = 0; i < 15; i++) {
+        for (int i = 0; i < 8; i++) {
             Ns.addLast(testAListLength);
             AList<Integer> testAddLastTimes = new AList<>();
 
